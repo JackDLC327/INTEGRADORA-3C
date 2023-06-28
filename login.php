@@ -14,6 +14,6 @@
         <input type="text" placeholder="email"><br><br>
         <p>¿No tienes una cuenta? Registrate aqui...<a style="font-size: 20px;" href="donas.php">Registrate</a></p>
     </div>
-
 </form>
+
 <?php include("templates/pie.php");?>

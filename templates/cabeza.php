@@ -13,7 +13,7 @@
                 <li><a href="donas.php">Donas</a></li>
                 <li><a href="conchas.php">Conchas</a></li>
                 <li><a href="empanadas.php">Empanadas</a></li>
-                <a href="login.php"><img src="img/perfil.png" alt=""></a>
+                <a href="login.php"><img class="perfil" src="img/perfil.png" alt=""></a>
             </ul>
         </div>
     </nav>
