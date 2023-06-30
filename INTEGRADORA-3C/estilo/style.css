@@ -16,7 +16,6 @@ body
     height: 60px;
     width: 100vw;
     border-bottom: 3px solid black;
-    
 }
 nav ul li
 {
@@ -43,15 +42,19 @@ p
 {
     font-size: 20px;
 }
-img
+.perfil
 {
-    width: 135px;
-    height: 135px;
+    width: 35px;
+    height: 35px;
     margin-top: 10px;
-    margin-left: 10px ;
-    
+    margin-left: 300px;
 }
+.pan{
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
 
+}
 .Fila-1{
     display: flex;
     justify-content: space-between;
@@ -116,23 +119,42 @@ img
     background-color: orange;
 }
 
-.p1:hover{
-    background-color: gray;
-    cursor: pointer;
+.Lagu{
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
-.p2:hover{
-    background-color: gray;
-    cursor: pointer;
+.Lagupan{
+    width: 720px;
 }
 
-.p3:hover{
-    background-color: gray;
-    cursor: pointer;
+.Cuerpo{
+    text-align: center;
+    padding-top: 20px;
 }
 
-ul li:hover{
-    background-color: burlywood;
-    cursor: pointer;
+.formulario{
+    padding-left: 20px;
+}
+
+.login{
+    padding-left: 20px;
+}
+
+.formulario h1{
+    border-radius: 10px;
+    border: 3px solid black;
+    width: 180px;
+    text-align: center;
+}
+
+input{
+    padding-right: 10px;
+}
+
+.sesion{
+    display: flex;
+    justify-content: center;
 }
 
