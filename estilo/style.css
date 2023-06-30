@@ -43,15 +43,19 @@ p
 {
     font-size: 20px;
 }
-img
+.perfil
 {
-    width: 135px;
-    height: 135px;
+    width: 35px;
+    height: 35px;
     margin-top: 10px;
-    margin-left: 10px ;
-    
+    margin-left: 300px;
 }
+.pan{
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
 
+}
 .Fila-1{
     display: flex;
     justify-content: space-between;
